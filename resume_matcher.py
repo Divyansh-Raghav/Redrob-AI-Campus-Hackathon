@@ -1,6 +1,5 @@
 """
 Redrob AI Campus Hackathon — Resume Matching Engine
-Pure Python only (math, standard library). No numpy/pandas/sklearn.
 """
 
 import math
